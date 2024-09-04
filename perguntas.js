@@ -1,113 +1,113 @@
 export const perguntas = [
     {
-        enunciado: "1. Como você prefere passar seu tempo livre?",
+        enunciado: "1. Qual lado da Força você prefere?",
         alternativas: [
             {
-                texto: "A) Lendo um livro",
+                texto: "A) Lado da Luz",
                 afirmacao: [
-                    "O Pensador. Você aprecia momentos de introspecção e adora mergulhar em novos mundos através da leitura. Sua natureza reflexiva e curiosa faz de você uma pessoa que valoriza o conhecimento e a tranquilidade."
+                    "O Guardião. Você valoriza a justiça, a paz e a harmonia. Prefere seguir um caminho de disciplina e altruísmo, sempre pensando no bem maior. Para você, ajudar os outros é mais importante do que obter poder."
                 ],
                 proxima: 1,
             },
             {
-                texto: "B) Socializando com amigos",
+                texto: "B) Lado Sombrio",
                 afirmacao: [
-                    "O Extrovertido. Você se sente energizado quando está rodeado por outras pessoas. Adora compartilhar experiências, histórias e risadas, sendo alguém que valoriza as conexões e as amizades."
+                    "O Ambicioso. Você é movido pela paixão e pelo desejo de alcançar seus objetivos a qualquer custo. Não tem medo de explorar o seu potencial ao máximo, mesmo que isso signifique quebrar algumas regras pelo caminho."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "2. Qual estilo de viagem você prefere?",
+        enunciado: "2. Qual é o seu lugar favorito para explorar?",
         alternativas: [
             {
-                texto: "Aventura na natureza",
+                texto: "Tatooine",
                 afirmacao: [
-                    "O Explorador. Você adora o desconhecido e sente-se revigorado ao explorar o ar livre. Para você, as melhores experiências vêm da conexão com a natureza e da superação de desafios.",
+                    "O Sobrevivente. Você é resiliente e se adapta bem a ambientes desafiadores. Prefere lugares que testem sua força e perseverança, e vê cada obstáculo como uma oportunidade para crescer.",
     
                 ],
                 proxima: 3,
             },
             {
-                texto: "Cidades históricas",
+                texto: "Coruscant",
                 afirmacao: [
-                    "O Curioso Cultural. Você é fascinado por história, arte e arquitetura. Prefere viagens que ofereçam riqueza cultural e um mergulho profundo nas tradições e histórias locais."
+                    "O Cosmopolita. Você é uma pessoa que adora estar no centro da ação e das decisões importantes. Prefere ambientes urbanos e vibrantes, onde sempre há algo novo acontecendo."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Qual é o seu ambiente de trabalho ideal?",
+        enunciado: "Qual o seu tipo de mentor ideal?",
         alternativas: [
             {
-                texto: "Trabalhando sozinho em silêncio",
+                texto: "Yoda",
                 afirmacao: [
-                    "O Independente. Você valoriza a concentração e a autonomia no trabalho. Prefere ambientes tranquilos onde pode se dedicar totalmente às suas tarefas, sem interrupções."
+                    "O Sábio. Você valoriza a sabedoria e o aprendizado ao longo da vida. Prefere conselhos baseados na experiência e na paciência, e acredita que o verdadeiro poder vem do conhecimento e do autocontrole."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Colaborando em equipe",
+                texto: "Darth Vader",
                 afirmacao: [
-                    "O Colaborativo. Você acredita que as melhores ideias surgem da troca de opiniões. Prefere trabalhar em equipe, onde pode compartilhar e receber feedback constante."
+                    "O Poderoso. Você se inspira na força e na determinação. Aprecia mentores que lideram com autoridade e não hesitam em tomar decisões difíceis. Para você, a liderança é sobre mostrar força e comando."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Como você lida com desafios?",
+        enunciado: "Como você lida com conflitos?",
         alternativas: [
             {
-                texto: "Planejando cuidadosamente",
+                texto: "Negociação",
                 afirmacao: [
-                    "O Estrategista. Antes de agir, você prefere analisar todas as possibilidades. Sua abordagem meticulosa garante que você esteja preparado para qualquer eventualidade."
+                    "O Pacificador. Você prefere resolver os conflitos de maneira diplomática, buscando o diálogo e a compreensão. Acredita que a cooperação é sempre uma opção e prefere evitar confrontos diretos."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Agindo por impulso",
+                texto: "Combate",
                 afirmacao: [
-                    "O Intuitivo. Você confia na sua intuição e prefere agir rapidamente diante de desafios. Acredita que as melhores soluções muitas vezes vêm de decisões espontâneas."
+                    "O Guerreiro. Você não foge de uma boa luta e acredita que às vezes a força é necessária para resolver os problemas. Para você, enfrentar os desafios de frente é a melhor maneira de conquistar respeito e autoridade."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Qual tipo de filme você prefere?",
+        enunciado: "Qual é o seu papel ideal em uma equipe?",
         alternativas: [
             {
-                texto: "Drama",
+                texto: "Líder",
                 afirmacao: [
-                    "O Sensível. Você aprecia histórias profundas que exploram a complexidade das emoções humanas. Para você, filmes são uma forma de se conectar com sentimentos intensos e narrativas significativas."
+                    "O Estrategista. Você gosta de estar no comando e se sente à vontade para tomar decisões difíceis. Prefere guiar os outros com seu senso de direção e responsabilidade, sempre planejando os próximos passos."
                 ],
                 proxima: 7,
             },
             {
-                texto: "Comédia",
+                texto: "Piloto",
                 afirmacao: [
-                    "O Alegre. Você prefere filmes leves e divertidos, que trazem alegria e riso. Acredita que o humor é uma das melhores formas de lidar com a vida e seus desafios."
+                    "O Executor. Você é prático e gosta de estar na linha de frente. Prefere agir rapidamente e tomar decisões no momento, confiando na sua habilidade e reflexos para superar qualquer desafio."
                 ],
                 proxima: 8,
             },
         ]
     },
     {
-        enunciado: "Como você prefere começar o dia?",
+        enunciado: "Qual é o seu tipo de nave preferido?",
         alternativas: [
             {
-                texto: "Com uma rotina matinal estabelecida",
+                texto: "X-Wing",
                 afirmacao: [
-                    "O Organizado. Você gosta de começar o dia com estrutura e previsibilidade. Para você, uma manhã bem planejada é o segredo para um dia produtivo."
+                    "O Herói. Você é corajoso e gosta de aventuras, preferindo naves rápidas e versáteis que podem se adaptar a qualquer situação. Para você, é mais importante ser ágil e estar pronto para qualquer desafio."
                 ],
             },
             {
-                texto: "De forma espontânea e sem horários fixos",
+                texto: "Star Destroyer",
                 afirmacao: [
-                    "O Espontâneo. Você prefere a liberdade de seguir seu próprio ritmo. Acredita que cada dia deve ser vivido de acordo com o que o momento pede, sem muita rigidez."
+                    "O Dominador. Você prefere o poder e a presença imponente. Gosta de ter controle e de demonstrar força, preferindo naves grandes e poderosas que simbolizam autoridade e controle sobre qualquer situação."
                 ],
             },
         ]
